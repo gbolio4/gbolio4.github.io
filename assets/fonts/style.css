@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Photograph Signature';
+   font-display: swap;
+   src: url('Photograph Signature/font.ttf');
+}
+@font-face {
+   font-family: 'OpenSans-Italic';
+   font-display: swap;
+   src: url('OpenSans-Italic/font.ttf');
+}
+@font-face {
+   font-family: 'italic';
+   font-display: swap;
+   src: url('italic/font.ttf');
+}
